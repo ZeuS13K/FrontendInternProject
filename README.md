@@ -1,4 +1,4 @@
-#To add node_modules " install npm using command: npm install in terminal "
+To add node_modules " install npm using command: npm install in terminal "
 
 
 # Getting Started with Create React App
