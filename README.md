@@ -4,8 +4,9 @@
 # Getting Started with Create React App
 
 To add node_modules  
-    install npm using command: 
-        "npm install" in terminal 
+Install npm using command: 
+"npm install" in terminal 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
